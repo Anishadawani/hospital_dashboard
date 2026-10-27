@@ -1,0 +1,7 @@
+﻿node_modules/
+.env
+venv/
+__pycache__/
+*firebase-adminsdk*.json
+backend/.env.example
+backend/.env.example
